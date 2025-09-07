@@ -27,7 +27,7 @@ The dataset contains retail sales information, and the dashboard focuses on sale
 - Retail_Sales_Analysis.pbix → Power BI project file  
 - retail_sales_dataset.csv → Sample dataset  
 - retail_sales_analysis.pdf → Exported PDF version of dashboard  
-
+![Dashboard Screenshot](.)
 ---
 
 ## How to Use
@@ -43,5 +43,3 @@ I wanted to get hands-on with Power BI by creating KPIs, visuals, and filters, a
 
 ---
 
-## Tags
-Power BI, Data Analytics, Dashboard, Retail Sales
