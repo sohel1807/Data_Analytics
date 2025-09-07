@@ -27,7 +27,7 @@ The dataset contains retail sales information, and the dashboard focuses on sale
 - Retail_Sales_Analysis.pbix → Power BI project file  
 - retail_sales_dataset.csv → Sample dataset  
 - retail_sales_analysis.pdf → Exported PDF version of dashboard  
-![Dashboard Screenshot](./retail_sale.png)
+![Dashboard Screenshot](./retail_sales.png)
 ---
 
 ## How to Use
