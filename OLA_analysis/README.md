@@ -5,8 +5,9 @@ This project is a *Power BI dashboard* analyzing ride data from OLA.
 The dashboard explores bookings, cancellations, revenue, vehicle types, and ratings to understand business performance.
 
 ---
-# NOTE:- The dashboard is divided into 5 sections: Overall, Vehicle Type, Revenue, Cancellations, and Ratings.
-#         You can move between these sections by Ctrl + Click on the menu buttons in Power BI
+# NOTE
+The dashboard is divided into 5 sections: Overall, Vehicle Type, Revenue, Cancellations, and Ratings.
+You can move between these sections by Ctrl + Click on the menu buttons in Power BI
 
 ## 📊 Dashboard Sections
 
